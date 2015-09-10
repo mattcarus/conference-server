@@ -15,4 +15,4 @@ cd /opt
 sudo wget https://github.com/viljoviitanen/setup-simple-openvpn/archive/master.zip
 sudo unzip master
 cd setup-simple-openvpn-master
-sudo sh setup.sh
+sudo sh normal-setup.sh
